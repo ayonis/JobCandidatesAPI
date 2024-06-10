@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B58670C-1FDD-4D75-A47C-0B164203E76B}|Test_Task.Tests\\Test_Task.Tests.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task.tests\\test\\candidatecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B58670C-1FDD-4D75-A47C-0B164203E76B}|Test_Task.Tests\\Test_Task.Tests.csproj|solutionrelative:test_task.tests\\test\\candidatecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B58670C-1FDD-4D75-A47C-0B164203E76B}|Test_Task.Tests\\Test_Task.Tests.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task.tests\\test\\candidateservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B58670C-1FDD-4D75-A47C-0B164203E76B}|Test_Task.Tests\\Test_Task.Tests.csproj|solutionrelative:test_task.tests\\test\\candidateservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\services\\candidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\services\\candidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\interfaces\\icandidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\interfaces\\icandidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\apicontext\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\apicontext\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\interfaces\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\interfaces\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Migrations\\20240610092155_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test_Task\\Migrations\\20240610092155_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\entitytypeconfiguration\\candidateentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\entitytypeconfiguration\\candidateentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|c:\\users\\abdelrhman\\source\\repos\\test_task\\test_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8096E846-388E-4AF2-BFE5-15DFF756FC21}|Test_Task\\Test_Task.csproj|solutionrelative:test_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Db_Context.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\APIContext\\Db_Context.cs",
+              "RelativeDocumentMoniker": "Test_Task\\APIContext\\Db_Context.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\APIContext\\Db_Context.cs",
+              "RelativeToolTip": "Test_Task\\APIContext\\Db_Context.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:38:44.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateServicesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task.Tests\\Test\\CandidateServicesTests.cs",
+              "RelativeDocumentMoniker": "Test_Task.Tests\\Test\\CandidateServicesTests.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task.Tests\\Test\\CandidateServicesTests.cs",
+              "RelativeToolTip": "Test_Task.Tests\\Test\\CandidateServicesTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:14:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateServices.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Services\\CandidateServices.cs",
+              "RelativeDocumentMoniker": "Test_Task\\Services\\CandidateServices.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Services\\CandidateServices.cs",
+              "RelativeToolTip": "Test_Task\\Services\\CandidateServices.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwCoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:24:30.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "Test_Task\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "Test_Task\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:00:42.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task.Tests\\Test\\CandidateControllerTests.cs",
+              "RelativeDocumentMoniker": "Test_Task.Tests\\Test\\CandidateControllerTests.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task.Tests\\Test\\CandidateControllerTests.cs",
+              "RelativeToolTip": "Test_Task.Tests\\Test\\CandidateControllerTests.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:04:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICandidateServices.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Interfaces\\ICandidateServices.cs",
+              "RelativeDocumentMoniker": "Test_Task\\Interfaces\\ICandidateServices.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Interfaces\\ICandidateServices.cs",
+              "RelativeToolTip": "Test_Task\\Interfaces\\ICandidateServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:34:31.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Interfaces\\IDbContext.cs",
+              "RelativeDocumentMoniker": "Test_Task\\Interfaces\\IDbContext.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Interfaces\\IDbContext.cs",
+              "RelativeToolTip": "Test_Task\\Interfaces\\IDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:38:04.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Program.cs",
+              "RelativeToolTip": "Test_Task\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:39:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Test_Task\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Models\\Candidate.cs",
+              "RelativeToolTip": "Test_Task\\Models\\Candidate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:27:44.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240610092155_init.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Migrations\\20240610092155_init.cs",
+              "RelativeDocumentMoniker": "Test_Task\\Migrations\\20240610092155_init.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\Migrations\\20240610092155_init.cs",
+              "RelativeToolTip": "Test_Task\\Migrations\\20240610092155_init.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowBwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:21:55.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CandidateEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\EntityTypeConfiguration\\CandidateEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Test_Task\\EntityTypeConfiguration\\CandidateEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\EntityTypeConfiguration\\CandidateEntityTypeConfiguration.cs",
+              "RelativeToolTip": "Test_Task\\EntityTypeConfiguration\\CandidateEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:08:18.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\appsettings.json",
+              "RelativeDocumentMoniker": "Test_Task\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Source\\Repos\\Test_Task\\Test_Task\\appsettings.json",
+              "RelativeToolTip": "Test_Task\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T08:43:08.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

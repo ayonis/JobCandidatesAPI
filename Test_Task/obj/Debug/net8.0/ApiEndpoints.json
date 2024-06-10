@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Test_Task.Controllers.CandidateController",
+    "Method": "Get",
+    "RelativePath": "api/Candidate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test_Task.Controllers.CandidateController",
+    "Method": "Post",
+    "RelativePath": "api/Candidate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidate",
+        "Type": "Test_Task.Models.Candidate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test_Task.Controllers.CandidateController",
+    "Method": "Put",
+    "RelativePath": "api/Candidate",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidate",
+        "Type": "Test_Task.Models.Candidate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test_Task.Controllers.CandidateController",
+    "Method": "Get",
+    "RelativePath": "api/Candidate/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test_Task.Controllers.CandidateController",
+    "Method": "Delete",
+    "RelativePath": "api/Candidate/{email}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
