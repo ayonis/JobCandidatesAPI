@@ -1,5 +1,5 @@
 Overview
-The Candidate API provides a endpoints to manage candidate information, including adding, updating, retrieving, and deleting candidate records. 
+The Candidate API provides an endpoints to manage candidate information, including adding, updating, retrieving, and deleting candidate records. 
 This README will guide you through setting up, using, and testing the API.
 
 Features
